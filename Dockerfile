@@ -1,4 +1,4 @@
-FROM quay.io/bannerbschafer/chess-engine:single_response as engine
+FROM quay.io/bannerbschafer/chess-engine as engine
 
 FROM node:8.7-stretch
 
